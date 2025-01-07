@@ -30,12 +30,3 @@ A **Tableau Dashboard** was created to analyze and visualize employee attrition 
 - **KPI Metrics:** Key performance indicators showing attrition rates and trends.  
 - **Drill-Through Analysis:** Deep dive into specific factors influencing attrition.  
 
----
-
-## 📂 **Repository Structure**  
-```plaintext
-├── Data/              # Raw and processed datasets (if applicable)
-├── Tableau_Dashboard/ # Tableau Workbook (.twb or .twbx file)
-├── SQL_Scripts/       # SQL queries used for analysis
-├── README.md          # Project documentation
-└── Insights/          # Screenshots or reports of findings
